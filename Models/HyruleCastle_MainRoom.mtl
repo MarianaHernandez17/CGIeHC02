@@ -1,0 +1,182 @@
+# Blender 5.0.1 MTL File: 'HyruleCastle.blend'
+# www.blender.org
+
+newmtl naka_ami_01_0
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_ami_01_0-DXT5.png
+map_d naka_ami_01_0-DXT5.png
+
+newmtl naka_hana_01_1000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_hana_01_1000-DXT5.png
+map_d naka_hana_01_1000-DXT5.png
+
+newmtl naka_hata_01_6C00
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_hata_01_6C00-DXT5.png
+map_d naka_hata_01_6C00-DXT5.png
+
+newmtl naka_isi_01_11400
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_isi_01_11400-DXT1.png
+map_d naka_isi_01_11400-DXT1.png
+
+newmtl naka_kabe_01_11E80
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_kabe_01_11E80-DXT1.png
+map_d naka_kabe_01_11E80-DXT1.png
+
+newmtl naka_kabe_02_13380
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_kabe_02_13380-DXT1.png
+map_d naka_kabe_02_13380-DXT1.png
+
+newmtl naka_kabe_03_1DB80
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_kabe_03_1DB80-DXT1.png
+map_d naka_kabe_03_1DB80-DXT1.png
+
+newmtl naka_kabe_04_28380
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_kabe_04_28380-DXT1.png
+map_d naka_kabe_04_28380-DXT1.png
+
+newmtl naka_kabe_07_35980.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_kabe_07_35980-DXT1.png
+map_d naka_kabe_07_35980-DXT1.png
+
+newmtl naka_kabe_08_36E80
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_kabe_08_36E80-DXT1.png
+map_d naka_kabe_08_36E80-DXT1.png
+
+newmtl naka_ki_01_41680
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_ki_01_41680-DXT5.png
+map_d naka_ki_01_41680-DXT5.png
+
+newmtl naka_tuti_01_4AA80
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_tuti_01_4AA80-DXT1.png
+map_d naka_tuti_01_4AA80-DXT1.png
+
+newmtl naka_water_01_4B500
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_water_01_4B500-DXT1.png
+map_d naka_water_01_4B500-DXT1.png
+
+newmtl naka_wnd_01_4BF80
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_wnd_01_4BF80-DXT5.png
+map_d naka_wnd_01_4BF80-DXT5.png
+
+newmtl naka_wnd_02_51380
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_wnd_02_51380-DXT1.png
+map_d naka_wnd_02_51380-DXT1.png
+
+newmtl naka_wnd_03_51E00
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_wnd_03_51E00-DXT1.png
+map_d naka_wnd_03_51E00-DXT1.png
+
+newmtl naka_yuka_01_52D00
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_yuka_01_52D00-DXT1.png
+map_d naka_yuka_01_52D00-DXT1.png
+
+newmtl naka_yuka_02_55700
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_yuka_02_55700-DXT1.png
+map_d naka_yuka_02_55700-DXT1.png

@@ -1,0 +1,82 @@
+# Blender 5.0.1 MTL File: 'HyruleCastle.blend'
+# www.blender.org
+
+newmtl naka_kabe_07_35980
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_kabe_07_35980-DXT1.png
+map_d naka_kabe_07_35980-DXT1.png
+
+newmtl naka_kabe_07_35980.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_kabe_07_35980-DXT1.png
+map_d naka_kabe_07_35980-DXT1.png
+
+newmtl naka_siro_01_45680
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_siro_01_45680-DXT1.png
+map_d naka_siro_01_45680-DXT1.png
+
+newmtl naka_siro_01_45680.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_siro_01_45680-DXT1.png
+map_d naka_siro_01_45680-DXT1.png
+
+newmtl naka_siro_02_48080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_siro_02_48080-DXT1.png
+map_d naka_siro_02_48080-DXT1.png
+
+newmtl naka_siro_02_48080.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_siro_02_48080-DXT1.png
+map_d naka_siro_02_48080-DXT1.png
+
+newmtl naka_yane_01_52300
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_yane_01_52300-DXT1.png
+map_d naka_yane_01_52300-DXT1.png
+
+newmtl naka_yane_01_52300.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd naka_yane_01_52300-DXT1.png
+map_d naka_yane_01_52300-DXT1.png
